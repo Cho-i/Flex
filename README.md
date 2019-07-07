@@ -54,3 +54,7 @@
 >     <https://heropy.blog/2018/11/24/css-flexible-box/>
 >
 >     <https://webdir.tistory.com/349>
+>
+> - d2.naver
+>
+>     <https://d2.naver.com/helloworld/8540176>
