@@ -94,7 +94,7 @@ Flex는 요소의 크기가 불분명하거나 동적인 경우에도, 각 요�
 
 ### Browser compatibility
 
-https://caniuse.com/#search=flex
+<https://caniuse.com/#search=flex>
 
 <br>
 
@@ -120,7 +120,7 @@ display:flex를 지원
 
 **Internet Explorer**
 
-https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/dn265027(v=vs.85)
+<https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/dn265027(v=vs.85)>
 
 IE10 버전에서 display:-ms-flexbox를 지원
 
