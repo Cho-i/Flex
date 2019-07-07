@@ -1,48 +1,53 @@
-![preview Long Haul](/preview.jpg)
+# Flex(Flexbox)
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+<br>
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+## [Flex 01](flex01/README.md)
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+<br>
 
-## Features
+<br>
 
-- Minimal, Type Focused Design
-- Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
-- SVG Social Icons
-- Responsive Nav Menu
-- XML Feed for RSS Readers
-- Contact Form via Formspree
-- 5 Post Loop with excerpt on Home Page
-- Previous / Next Post Navigation
-- Estimated Reading Time for posts
-- Stylish Drop Cap on posts
-- A Better Type Scale for all devices
+------
 
-## Setup
+<br>
 
-1. [Install Jekyll](http://jekyllrb.com)
-2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
-3. Clone it
-4. [Install Bundler](http://bundler.io/)
-5. Run `bundle install`
-6. Install gulp dependencies by running `npm install`
-7. Run Jekyll and watch files by running `bundle exec gulp`
-8. Customize and watch the magic happen!
-
-## Site Settings
-
-The main settings can be found inside the `_config.yml` file:
-
-- **title:** title of your site
-- **description:** description of your site
-- **url:** your url
-- **paginate:** the amount of posts displayed on homepage
-- **navigation:** these are the links in the main site navigation
-- **social** diverse social media usernames (optional)
-- **google_analytics** Google Analytics key (optional)
-
-## License
-
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+> **참고**
+>
+> - MDN Web Docs
+>
+>     https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Flexible_Box_Layout/Flexbox%EC%9D%98_%EA%B8%B0%EB%B3%B8_%EA%B0%9C%EB%85%90
+>
+>     https://developer.mozilla.org/en-US/docs/Web/CSS/flex_value
+>
+> - w3schools
+>
+>     https://www.w3schools.com/cssref/css3_pr_flex.asp
+>
+> - 생활코딩
+>
+>     https://www.opentutorials.org/course/2418/13526
+>
+> - Understanding Flexbox
+>
+>     [https://www.vobour.com/1-flexbox-%EC%9D%B4%ED%95%B4-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%93%A0-%EA%B2%83-understa](https://www.vobour.com/1-flexbox-이해-당신이-알아야-할-모든-것-understa)
+>
+> - Flexbox Froggy(Game)
+>
+>     https://flexboxfroggy.com/#ko
+>
+> - caniuse
+>
+>     https://caniuse.com/#search=flex
+>
+> - Microsoft Docs
+>
+>     https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/dev-guides/hh673531(v=vs.85)
+>
+>     https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/compatibility/dn265027(v=vs.85)
+>
+> - blog
+>
+>     https://heropy.blog/2018/11/24/css-flexible-box/
+>
+>     https://webdir.tistory.com/349
