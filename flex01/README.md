@@ -16,9 +16,7 @@
 
 **table(표)**
 
-격자모양 ,그리드모양으로 생긴걸 착안해서 표에 해당하는 table태그로 레이아웃을 잡음 .
-
-<u>문제</u>
+격자모양 ,그리드모양으로 생긴걸 착안해서 표에 해당하는 table태그로 레이아웃을 잡음.
 
 표는 구조화된 정보를 또 많은 정보를 잘 정리 정돈하기 위한 정보로서의 의미를 가지고 있는데, 그것을 의미가 없는 레이아웃을 사용하게 되니까 검색 엔진이나 스크린 리더나 여러 html을 해석하는 소프트웨어들의 입장에서는 테이블을 만났을 때 그 테이블이 표로 사용된 것인지 레이아웃으로 사용된 것인지를 구분하기 굉장히 어려웠음.
 
@@ -71,12 +69,7 @@ EX02
 
 <br>
 
-**<u>이런 방법들을 이용해 레이아웃을 잡는데 많이 사용하지만, 다양한 문제[^2]를 가지고 있기에 수평 레이아웃 구성의 차선책일 뿐 레이아웃을 만들기 위해서 고안된 것이라고 보기 어려움.</u>**
-
-
-
-[^1]: 어떤 컨텐츠를 만들 때 그 컨텐츠를 잘 정리 정돈해서 구조화시킬 때 사용하는것
-[^2]: Clear, White space 등... (해결은 가능하지만)
+이런 방법들을 이용해 레이아웃을 잡는데 많이 사용하지만, 다양한 문제[^2]를 가지고 있기에 수평 레이아웃 구성의 차선책일 뿐 레이아웃을 만들기 위해서 고안된 것이라고 보기 어려움.
 
 <br>
 
@@ -130,14 +123,14 @@ IE11 버전부터 display:flex를 지원
 
 **Property**
 
-| Instead of(IE10)           | Use(IE11)       |
-| -------------------------- | --------------- |
-| -ms-flex-wrap              | flex-wrap       |
-| -ms-flex-order, flex-order | order           |
-| -ms-flex-pack              | justify-content |
-| -ms-flex-align             | align-items     |
-| -ms-flex-item-align        | align-self      |
-| -ms-flex-line-pack         | align-content   |
+| Instead of(IE10)           | Use(IE11)                  |
+| -------------------------- | -------------------------- |
+| -ms-flex-wrap              | flex-wrap                  |
+| -ms-flex-order, flex-order | order                      |
+| -ms-flex-pack              | justify-content            |
+| -ms-flex-align             | align-items                |
+| -ms-flex-item-align        | align-self                 |
+| -ms-flex-line-pack         | align-content              |
 
 <br>
 
@@ -178,13 +171,17 @@ container와 items에 적용하는 속성이 구분되어 있음.
 
 <br>
 
-|    container    |    item     |
-| :-------------: | :---------: |
-|     display     |    order    |
-|    flex-flow    |    flex     |
-| flex-direction  |  flex-grow  |
-|    flex-wrap    | flex-shrink |
-| justify-content | flex-basis  |
-|  align-content  | align-self  |
-|   align-items   |             |
+| container                  | item                       |
+| -------------------------- | -------------------------- |
+| display                    | order                      |
+| flex-flow                  | flex                       |
+| flex-direction             | flex-grow                  |
+| flex-wrap                  | flex-shrink                |
+| justify-content            | flex-basis                 |
+| align-content              | align-self                 |
+| align-items                |                            |
 
+<br>
+<br>
+[^1]: 어떤 컨텐츠를 만들 때 그 컨텐츠를 잘 정리 정돈해서 구조화시킬 때 사용하는것
+[^2]: Clear, White space 등... (해결은 가능하지만)
