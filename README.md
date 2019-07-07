@@ -37,11 +37,11 @@
 >
 > - Flexbox Froggy(Game)
 >
->     <https://flexboxfroggy.com/#ko](https://flexboxfroggy.com/#ko>
+>     <https://flexboxfroggy.com/#ko>
 >
 > - caniuse
 >
->     <https://caniuse.com/#search=flex](https://caniuse.com/#search=flex>
+>     <https://caniuse.com/#search=flex>
 >
 > - Microsoft Docs
 >
