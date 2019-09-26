@@ -30,7 +30,7 @@ floating 효과는 이미지를 삽화 같은 것으로 표현할때 이미지�
 
 <br>
 
-EX01
+EX01)
 
 ```html
 <div class="box"></div>
@@ -48,13 +48,13 @@ EX01
 
 <br>
 
-EX02
+EX02)
 
 ```html
 <div class="clear">
     <div class="box"></div>
-	<div class="box"></div>
-	<div class="box"></div>
+    <div class="box"></div>
+    <div class="box"></div>
 </div>
 ```
 
@@ -81,7 +81,7 @@ Flex는 요소의 크기가 불분명하거나 동적인 경우에도, 각 요�
 
 <br>
 
-> flex는 주로 레이아웃을 잡을 때 사용하며, 여러가지 flex와 관련된 속성들이 다양하게 존재하여 다 아는 것도 쉽지 않음, 또 그것들이 결합됐을 때 어떤 이펙트가 일어날지 파악하는 것도 쉽지 않음....
+> flex는 주로 레이아웃을 잡을 때 사용하며, 여러가지 flex와 관련된 속성들이 다양하게 존재하여 다 아는 것도 쉽지 않음, 또 그것들이 결합됐을 때 어떤 이펙트가 일어날지 파악하는 것도 쉽지 않음.
 
 <br>
 
@@ -154,7 +154,7 @@ Flex를 사용하기 위해서는 태그가 두 단계가 필요함.
 
 ```html
 <container>
-	<item></item>
+    <item></item>
     <item></item>
 </container>
 ```
