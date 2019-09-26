@@ -309,6 +309,8 @@ https://jsfiddle.net/Choilee/w2ne01t3/18/
 
 <iframe width="100%" height="300" src="//jsfiddle.net/Choilee/w2ne01t3/18/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
+{@jsfiddle:https://jsfiddle.net/Choilee/w2ne01t3/18/?tabs=js,html,css&height=300}
+
 <br>
 
 #### flex-shrink
