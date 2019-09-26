@@ -408,3 +408,6 @@ Item의 (공간 배분 전) 기본 너비를 설정.
 `align-self:정렬방법;`
 
 ![Flex](https://heropy.blog/images/screenshot/flex-align-self.jpg)
+
+
+
