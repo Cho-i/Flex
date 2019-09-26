@@ -307,9 +307,9 @@ Item이 3개이고 증가 너비가 각각 `1`, `2`, `1` 이면,
 
 https://jsfiddle.net/Choilee/w2ne01t3/18/
 
-<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/w2ne01t3/18/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+<br>
 
-{@jsfiddle:https://jsfiddle.net/Choilee/w2ne01t3/18/?tabs=js,html,css&height=300}
+<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/w2ne01t3/18/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 <br>
 
@@ -361,7 +361,11 @@ Container의 너비가 줄어 Item의 너비에 영향을 미치기 시작한 �
 
 https://jsfiddle.net/Choilee/p6t4cmya/3/
 
+<br>
+
 <iframe width="100%" height="300" src="//jsfiddle.net/Choilee/p6t4cmya/3/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+<br>
 
 > 계산이 까다로워 활용도는 조금 떨어짐.
 >
