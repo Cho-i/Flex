@@ -305,8 +305,9 @@ Item이 3개이고 증가 너비가 각각 `1`, `2`, `1` 이면,
 
 ![Flex](https://heropy.blog/images/screenshot/flex-grow.jpg)
 
-<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/w2ne01t3/18/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-[https://jsfiddle.net/Choilee/w2ne01t3/18/](https://jsfiddle.net/Choilee/w2ne01t3/18/)
+<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/w2ne01t3/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+[https://jsfiddle.net/Choilee/w2ne01t3/](https://jsfiddle.net/Choilee/w2ne01t3/)
 
 <br>
 
@@ -356,8 +357,9 @@ Container의 너비가 줄어 Item의 너비에 영향을 미치기 시작한 �
 
 ![Flex](https://heropy.blog/images/screenshot/flex-shrink.jpg)
 
-<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/p6t4cmya/3/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
-[https://jsfiddle.net/Choilee/p6t4cmya/3/](https://jsfiddle.net/Choilee/p6t4cmya/3/)
+<iframe width="100%" height="300" src="//jsfiddle.net/Choilee/p6t4cmya/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+
+[https://jsfiddle.net/Choilee/p6t4cmya/](https://jsfiddle.net/Choilee/p6t4cmya/)
 
 <br>
 
