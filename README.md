@@ -1,16 +1,12 @@
 # Flex(Flexbox)
 
-1. ## [Flex(1)](flex01/README.md)
+1. ## [#01 Flex](flex01/README.md) - Flexbox 등장 배경 및 설명
 
-2. ## [Flex(2)](flex02/README.md)
+2. ## [#02 Flex](flex02/README.md) - Flex 사용법(Flex-container, Flex-item)
 
-3. ## [Flex(3)](flex03/README.md)
+3. ## [#03 Flex](flex03/README.md) - Flex를 사용한 레이아웃
 
    <br><br>
-
-------
-
-<br>
 
 > **참고**
 >
